@@ -10,7 +10,7 @@
   
   [-osTicket Ticket Management](https://github.com/adeabujade/Ticket-LifeCycle/tree/main)
 
-**Cisco Packet Tracer</b>**
+**Cisco Packet Tracer**
 
 [-Hotel Topology](https://github.com/adeabujade/Hotel-Topology)
   
