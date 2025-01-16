@@ -13,7 +13,7 @@
   
 -<b>Cisco Packet Tracer</b>
 
-    [-Hotel Topology](https://github.com/adeabujade/Hotel-Topology)
+  [-Hotel Topology](https://github.com/adeabujade/Hotel-Topology)
   
 <h2>🤳Connect with me:</h2>
 
