@@ -6,9 +6,13 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
 
   -[-osTicket Installation](https://github.com/adeabujade/osTicket-Configuration)
+  
   -[-osTicket Configuration](https://github.com/adeabujade/Post-Install-Configuration)
+  
   -[-osTicket Ticket Management](https://github.com/adeabujade/Ticket-LifeCycle/tree/main)
+  
 -<b>Cisco Packet Trace</b>
+
   -[-Hotel Topology](https://github.com/adeabujade/Hotel-Topology)
   
 <h2>🤳Connect with me:</h2>
