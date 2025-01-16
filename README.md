@@ -3,7 +3,7 @@
 <h2>👨‍💻 Techhnology Projects:</h2>
 
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+<b>osTicket (Help Desk Ticketing System)</b>
 
   [-osTicket Installation](https://github.com/adeabujade/osTicket-Configuration)
   
