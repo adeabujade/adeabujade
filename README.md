@@ -10,8 +10,12 @@
   [-osTicket Configuration](https://github.com/adeabujade/Post-Install-Configuration)
   
   [-osTicket Ticket Management](https://github.com/adeabujade/Ticket-LifeCycle/tree/main)
+
+<b>Observing VPNs</b>  
+
+  [-Observing VPNs](https://github.com/adeabujade/Proton-VPN)
   
--<b>Cisco Packet Tracer</b>
+<b>Cisco Packet Tracer</b>
 
   [-Hotel Topology](https://github.com/adeabujade/Hotel-Topology)
   
