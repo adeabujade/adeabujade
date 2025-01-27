@@ -11,6 +11,10 @@
   
   [-osTicket Ticket Management](https://github.com/adeabujade/Ticket-LifeCycle/tree/main)
 
+<b>Active Directory</b>
+
+[[-Setting Up Active Directory]](https://github.com/adeabujade/Setting-up-Active-Directory-with-Azure-VMs)
+
 <b>Observing VPNs</b>  
 
   [-Observing VPNs](https://github.com/adeabujade/Proton-VPN)
