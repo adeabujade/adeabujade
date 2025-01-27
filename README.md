@@ -13,7 +13,7 @@
 
 <b>Active Directory</b>
 
-[[-Setting Up Active Directory]](https://github.com/adeabujade/Setting-up-Active-Directory-with-Azure-VMs)
+[-Setting Up Active Directory](https://github.com/adeabujade/Setting-up-Active-Directory-with-Azure-VMs)
 
 <b>Observing VPNs</b>  
 
