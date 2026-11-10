@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Techhnology Projects:</h2>
 
+<b>Wazuh SOC Homelab</b>
+
+[-Wazuh Installation and Failed Login](https://github.com/adeabujade/wazuh-soc-home-lab)
+
 
 <b>osTicket (Help Desk Ticketing System)</b>
 
