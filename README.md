@@ -6,6 +6,8 @@
 
 [-Wazuh Installation and Failed Login](https://github.com/adeabujade/wazuh-soc-home-lab)
 
+[-Wazuh File Integrity Monitoring](https://github.com/adeabujade/wazuh-file-integrity)
+
 
 <b>osTicket (Help Desk Ticketing System)</b>
 
